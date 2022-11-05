@@ -1,2 +1,2 @@
-# devops-js-epam
-DevOps Fundamentals for JavaScript Engineers
+# DevOps Fundamentals for JavaScript Engineers
+This repo is for DevOps Fundamentals for JavaScript Engineers
